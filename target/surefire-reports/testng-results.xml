@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-27T20:04:22 PDT" name="Command line suite" finished-at="2022-09-27T20:04:25 PDT" duration-ms="3564">
+    <groups>
+    </groups>
+    <test started-at="2022-09-27T20:04:22 PDT" name="Command line test" finished-at="2022-09-27T20:04:25 PDT" duration-ms="3564">
+      <class name="GetTest">
+        <test-method signature="getBookFromID()[pri:0, instance:GetTest@9f116cc]" started-at="2022-09-27T20:04:22 PDT" name="getBookFromID" finished-at="2022-09-27T20:04:25 PDT" duration-ms="3519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookFromID -->
+      </class> <!-- GetTest -->
+      <class name="PostTest">
+        <test-method signature="postAuthor()[pri:0, instance:PostTest@478190fc]" started-at="2022-09-27T20:04:25 PDT" name="postAuthor" finished-at="2022-09-27T20:04:25 PDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAuthor -->
+      </class> <!-- PostTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
